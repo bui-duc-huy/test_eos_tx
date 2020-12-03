@@ -1,0 +1,23 @@
+{
+  "name": "auto_tx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/bui-duc-huy/auto_tx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bui-duc-huy/auto_tx/issues"
+  },
+  "homepage": "https://gitlab.com/bui-duc-huy/auto_tx#readme",
+  "dependencies": {
+    "eosjs": "^21.0.3",
+    "node-fetch": "^2.6.1"
+  }
+}
